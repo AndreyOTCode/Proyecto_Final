@@ -16,13 +16,17 @@ Cuenta con autenticación, panel de administración y una interfaz adaptable par
 
 **EL SIGUIENTE ES EL LINK DEL PROYECTO DESPLEGADO EN LA NUBE:**
 
-        🖥️   https://ragnarokapp.netlify.app/   
+        🖥️  
+       
+        https://ragnarokapp.netlify.app/   
 
 *Importante*
 
 Ver el video del funcionamiento de software primero:
 
-        📽️   https://www.canva.com/design/DAGxqj-kfis/bKfd3Db454E8cKR1I5cBOQ/watch?utm_content=DAGxqj-kfis&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h463cf583f0
+        📽️  
+        
+        https://www.canva.com/design/DAGxqj-kfis/bKfd3Db454E8cKR1I5cBOQ/watch?utm_content=DAGxqj-kfis&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h463cf583f0
 
 
 
@@ -172,12 +176,16 @@ Antes de instalar el proyecto, asegúrate de tener instalado:
 
  *Video de correcta istalación*
 
-                📽️   https://youtu.be/z_U90yme4vM?feature=shared
+                📽️   
+                
+                https://youtu.be/z_U90yme4vM?feature=shared
 
 
  *Video de funcionamiento del software local*
 
-                📽️   https://www.youtube.com/watch?v=3VWU1wx4p_0 
+                📽️  
+                
+                https://www.youtube.com/watch?v=3VWU1wx4p_0 
                 
  ---------------------------------------------------------------------------------------------------------------------------------------
 
